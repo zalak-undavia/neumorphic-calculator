@@ -299,6 +299,16 @@ export default function App() {
                     <div>{renderKeys()}</div>
                 </div>
             </div>
+            <div className="name-footer-zalak">
+                Created with ❤️ by
+                <a
+                    href="https://github.com/zalak-undavia/neumorphic-calculator"
+                    className="profile-link-zalak"
+                    target="_blank"
+                >
+                    Zalak Undavia
+                </a>
+            </div>
         </div>
     );
 }
